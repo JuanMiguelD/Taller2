@@ -19,4 +19,4 @@ public class AdvancedAudioPlayerAdapter implements AudioPlayer {
     public void stop() {
        this.advancedAudioPlayer.stop();
     }
- }
+}
